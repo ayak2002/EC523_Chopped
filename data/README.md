@@ -5,50 +5,61 @@
 The Food-101 dataset is a popular dataset used for image classification tasks intended for training and evaluating machine learning models in food recognition. It contains a total of 101 different food categories containing 1000 images, 750 for training and 250 for testing, totalling 101,000 high-resolution images. Each category or label represents a wide range of food from more common dishes to more exotic with different presentations, angles, lighting, backgrounds, and portion sizes. For our project, we have decided to manually split and upload the training dataset into varying batches varying in increments of 10% of the data, equally distributed under each label, until it reaches 100% of the training set, 75,750 images. 
 
 ## Links to Datasets: 
-### Testing (250 Images in each category): 
-Unzipped: 
-Zip: 
+### Testing (250 Images/Category): 
+- **Total Number of Images**: 25,250 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1VqLBUqWh_kbAbC78nAeRs4AzxucGHdbl?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1nyuKnd5S6Z4oRR-C0Y5q45NmHg7mfOXB/view?usp=sharing
 
 
-### 10% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 10% of Training Data (75 Images/Category): 
+- **Total Number of Images**: 7,575 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1ek3bNAkJiGYTetd18ef4QXxnVUuYok_d?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1OLDTCCxlkmJsxQbU_xNQtxiepQUE4YOI/view?usp=sharing
 
-### 20% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 20% of Training Data (150 Images/Category): 
+- **Total Number of Images**: 15,150 Images 
+- **Unzipped**: https://drive.google.com/drive/folders/1iQ3uW9GXcmlQE87JRkjUOiG5krasksHg?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1nyuKnd5S6Z4oRR-C0Y5q45NmHg7mfOXB/view?usp=sharing
 
-### 30% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 30% of Training Data (225 Images/Category): 
+- **Total Number of Images**: 22,725 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1eUjCVHDhc3jXbrIUCwlQqsX1n0v9eVDs?usp=sharing
+- **Zip**: https://drive.google.com/file/d/18tP_yd2eL67DmTt8YNPNFa0erY9rh-9D/view?usp=sharing
 
-### 40% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 40% of Training Data (300 Images/Category): 
+- **Total Number of Images**: 30,300 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1AJt8m5v-t6N01112VVtWLQbs5hE8Z8hV?usp=sharing
+- **Zip**: 
 
-### 50% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 50% of Training Data (375 Images/Category): 
+- **Total Number of Images**: 37,875 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1t4ASj2C1wCUVHYNLBmzNLMmlfiGtV157?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1lRkLxrUYSscUjE3LlPi7vIivzrcR3ipZ/view?usp=sharing
 
-### 60% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 60% of Training Data (450 Images/Category): 
+- **Total Number of Images**: 45,450 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1m4KpRnT9S9P98Id3EBxGYwIH_hNOEiKZ?usp=sharing
+- **Zip**: https://drive.google.com/file/d/19vfMOO-ZW6_XjEOf-UT8ebKe8pHIeC9H/view?usp=sharing
 
-### 70% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 70% of Training Data (525 Images/Category): 
+- **Total Number of Images**: 53,025 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1I2FnHNs6K74EfUYSMz4doFwSQXAu9RIT?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1I5FUVgaqCUq16k98yaUUVVd5L2VV2bD_/view?usp=sharing
 
-### 80% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 80% of Training Data (600 Images/Category): 
+- **Total Number of Images**: 60,600 Images
+- **Unzipped**: https://drive.google.com/drive/folders/134aTDpQtEbglJZ9iX2ueb56gE87iG6pc?usp=sharing
+- **Zip**: 
 
-### 90% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip: 
+### 90% of Training Data (675 Images/Category): 
+- **Total Number of Images**: 68,175 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1mSN3w1j7PQartgPObK-yeMEr5OjHesuU?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1RzE5YEQJP52QncZq9pWQ-toW41Konl3F/view?usp=sharing 
 
-### 100% of Training Data (75 Images in each category): 
-Unzipped: 
-Zip:
+### 100% of Training Data (750 Images/Category): 
+- **Total Number of Images**: 75,750 Images
+- **Unzipped**: https://drive.google.com/drive/folders/1IxPaxFWvsG8D7fMYpy0MrhtyK_Yi8TCK?usp=sharing
+- **Zip**: https://drive.google.com/file/d/1nnWOlV_4g-zw4BleUlkxTajBC8zIKk1W/view?usp=sharing 
 
 
 ## Food-101 Categories: 
