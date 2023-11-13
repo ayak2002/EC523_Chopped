@@ -29,7 +29,7 @@ The Food-101 dataset is a popular dataset used for image classification tasks in
 ### 40% of Training Data (300 Images/Category): 
 - **Total Number of Images**: 30,300 Images
 - **Unzipped**: https://drive.google.com/drive/folders/1AJt8m5v-t6N01112VVtWLQbs5hE8Z8hV?usp=sharing
-- **Zip**: 
+- **Zip**: https://drive.google.com/file/d/1GswmzsWSkGWOoEtU0_yxfxBgoUr9e30z/view?usp=sharing
 
 ### 50% of Training Data (375 Images/Category): 
 - **Total Number of Images**: 37,875 Images
