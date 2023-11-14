@@ -167,53 +167,52 @@ The Food-101 dataset is a popular dataset used for image classification tasks in
 
 # Food-101 vs ImageNet: 
 ### ImageNet Food Categories: 
- 924: 'guacamole',
- 925: 'consomme',
- 926: 'hot pot, hotpot',
- 927: 'trifle',
- 928: 'ice cream, icecream',
- 929: 'ice lolly, lolly, lollipop, popsicle',
- 930: 'French loaf',
- 931: 'bagel, beigel',
- 932: 'pretzel',
- 933: 'cheeseburger',
- 934: 'hotdog, hot dog, red hot',
- 935: 'mashed potato',
- 936: 'head cabbage',
- 937: 'broccoli',
- 938: 'cauliflower',
- 939: 'zucchini, courgette',
- 940: 'spaghetti squash',
- 941: 'acorn squash',
- 942: 'butternut squash',
- 943: 'cucumber, cuke',
- 944: 'artichoke, globe artichoke',
- 945: 'bell pepper',
- 946: 'cardoon',
- 947: 'mushroom',
- 948: 'Granny Smith',
- 949: 'strawberry',
- 950: 'orange',
- 951: 'lemon',
- 952: 'fig',
- 953: 'pineapple, ananas',
- 954: 'banana',
- 955: 'jackfruit, jak, jack',
- 956: 'custard apple',
- 957: 'pomegranate',
- 958: 'hay',
- 959: 'carbonara',
- 960: 'chocolate sauce, chocolate syrup',
- 961: 'dough',
- 962: 'meat loaf, meatloaf',
- 963: 'pizza, pizza pie',
- 964: 'potpie',
- 965: 'burrito',
- 966: 'red wine',
- 967: 'espresso',
- 968: 'cup',
- 969: 'eggnog'
-
-
+924. guacamole
+925. consomme
+926. hot pot, hotpot
+927. trifle
+928. ice cream, icecream
+929. ice lolly, lolly, lollipop, popsicle
+930. French loaf
+931. bagel, beigel
+932. pretzel
+933. cheeseburger
+934. hotdog, hot dog, red hot
+935. mashed potato
+936. head cabbage
+937. broccoli
+938. cauliflower
+939. zucchini, courgette
+940. spaghetti squash
+941. acorn squash
+942. butternut squash
+943. cucumber, cuke
+944. artichoke, globe artichoke
+945. bell pepper
+946. cardoon
+947. mushroom
+948. Granny Smith
+949. strawberry
+950. orange
+951. lemon
+952. fig
+953. pineapple, ananas
+954. banana
+955. jackfruit, jak jack
+956. custard apple
+957. pomegranate
+958. hay
+959. carbonara
+960. chocolate sauce, chocolate syrup
+961. dough
+962. meat loaf, meatloaf
+963. pizza, pizza pie
+964. potpie
+965. burrito
+966. red wine
+967. espresso
+968. cup
+969. eggnog
+     
 ### Similarities: 
-- 
+![similarities](https://github.com/ayak2002/EC523_Chopped/assets/91199802/0a2caacc-6909-48b0-a581-34fad24be3b4)
