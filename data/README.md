@@ -215,4 +215,12 @@ The Food-101 dataset is a popular dataset used for image classification tasks in
 969. eggnog
      
 ### Similarities: 
-![similarities](https://github.com/ayak2002/EC523_Chopped/assets/91199802/0a2caacc-6909-48b0-a581-34fad24be3b4)
+| Food-101  | ImageNet |
+| ------------- | ------------- |
+| Breakfast burrito |  burrito  |
+| Guacamole |  Guacamole  |
+|Ice cream | Ice cream, icecream|
+| Hamburger | cheesburger |
+| Hot dog | hotdog, hot dog, red hot|
+| Spaghetti carbonara | carbonara| 
+| Pizza | pizza, pizza pie|
