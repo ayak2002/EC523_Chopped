@@ -19,7 +19,7 @@ The Food-101 dataset is a popular dataset used for image classification tasks in
 ### 20% of Training Data (150 Images/Category): 
 - **Total Number of Images**: 15,150 Images 
 - **Unzipped**: https://drive.google.com/drive/folders/1iQ3uW9GXcmlQE87JRkjUOiG5krasksHg?usp=sharing
-- **Zip**: https://drive.google.com/file/d/1nyuKnd5S6Z4oRR-C0Y5q45NmHg7mfOXB/view?usp=sharing
+- **Zip**: 
 
 ### 30% of Training Data (225 Images/Category): 
 - **Total Number of Images**: 22,725 Images
@@ -59,8 +59,7 @@ The Food-101 dataset is a popular dataset used for image classification tasks in
 ### 100% of Training Data (750 Images/Category): 
 - **Total Number of Images**: 75,750 Images
 - **Unzipped**: https://drive.google.com/drive/folders/1IxPaxFWvsG8D7fMYpy0MrhtyK_Yi8TCK?usp=sharing
-- **Zip**: https://drive.google.com/file/d/1nnWOlV_4g-zw4BleUlkxTajBC8zIKk1W/view?usp=sharing 
-
+- **Zip**: 
 
 ## Food-101 Categories: 
 1. Apple pie
