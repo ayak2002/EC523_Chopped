@@ -65,111 +65,111 @@ The Food-101 dataset is a popular dataset used for image classification tasks in
 - **Unzipped**: https://drive.google.com/drive/folders/1IxPaxFWvsG8D7fMYpy0MrhtyK_Yi8TCK?usp=sharing
 - **Zip**: https://drive.google.com/file/d/1946ohSi0345VVn_EMuGerEWB_LKUp4Me/view?usp=sharing
 
-## Food-101 vs ImageNet Categories: 
+## Dataset Comparisons: 
 
-|	Food-101	|	ImageNet	|
-| ------------- | ------------- |
-|	1. Apple pie	|	924. guacamole	|
-|	2. Baby back ribs	|	925. consomme	|
-|	3. Baklava	|	926. hot pot, hotpot	|
-|	4. Beef carpaccio	|	927. trifle	|
-|	5. Beef tartare	|	928. ice cream, icecream	|
-|	6. Beet salad	|	929. ice lolly, lolly, lollipop, popsicle	|
-|	7. Beignets	|	930. French loaf	|
-|	8. Bibimbap	|	931. bagel, beigel	|
-|	9. Bread pudding	|	932. pretzel	|
-|	10. Breakfast burrito	|	933. cheeseburger	|
-|	11. Bruschetta	|	934. hotdog, hot dog, red hot	|
-|	12. Caesar salad	|	935. mashed potato	|
-|	13. Cannoli	|	936. head cabbage	|
-|	14. Caprese salad	|	937. broccoli	|
-|	15. Carrot cake	|	938. cauliflower	|
-|	16. Ceviche	|	939. zucchini, courgette	|
-|	17. Cheesecake	|	940. spaghetti squash	|
-|	18. Cheese plate	|	941. acorn squash	|
-|	19. Chicken curry	|	942. butternut squash	|
-|	20. Chicken quesadilla	|	943. cucumber, cuke	|
-|	21. Chicken wings	|	944. artichoke, globe artichoke	|
-|	22. Chocolate cake	|	945. bell pepper	|
-|	23. Chocolate mousse	|	946. cardoon	|
-|	24. Churros	|	947. mushroom	|
-|	25. Clam chowder	|	948. Granny Smith	|
-|	26. Club sandwich	|	949. strawberry	|
-|	27. Crab cakes	|	950. orange	|
-|	28. Creme brulee	|	951. lemon	|
-|	29. Croque madame	|	952. fig	|
-|	30. Cup cakes	|	953. pineapple, ananas	|
-|	31. Deviled eggs	|	954. banana	|
-|	32. Donuts	|	955. jackfruit, jak jack	|
-|	33. Dumplings	|	956. custard apple	|
-|	34. Edamame	|	957. pomegranate	|
-|	35. Eggs benedict	|	958. hay	|
-|	36. Escargots	|	959. carbonara	|
-|	37. Falafel	|	960. chocolate sauce, chocolate syrup	|
-|	38. Filet mignon	|	961. dough	|
-|	39. Fish and chips	|	962. meat loaf, meatloaf	|
-|	40. Foie gras	|	963. pizza, pizza pie	|
-|	41. French fries	|	964. potpie	|
-|	42. French onion soup	|	965. burrito	|
-|	43. French toast	|	966. red wine	|
-|	44. Fried calamari	|	967. espresso	|
-|	45. Fried rice	|	968. cup	|
-|	46. Frozen yogurt	|	969. eggnog	|
-|	47. Garlic bread	|		|
-|	48. Gnocchi	|		|
-|	49. Greek salad	|		|
-|	50. Grilled cheese sandwich	|		|
-|	51. Grilled salmon	|		|
-|	52. Guacamole	|		|
-|	53. Gyoza	|		|
-|	54. Hamburger	|		|
-|	55. Hot and sour soup	|		|
-|	56. Hot dog	|		|
-|	57. Huevos rancheros	|		|
-|	58. Hummus	|		|
-|	59. Ice cream	|		|
-|	60. Lasagna	|		|
-|	61. Lobster bisque	|		|
-|	62. Lobster roll sandwich	|		|
-|	63. Macaroni and cheese	|		|
-|	64. Macarons	|		|
-|	65. Miso soup	|		|
-|	66. Mussels	|		|
-|	67. Nachos	|		|
-|	68. Omelette	|		|
-|	69. Onion rings	|		|
-|	70. Oysters	|		|
-|	71. Pad thai	|		|
-|	72. Paella	|		|
-|	73. Pancakes	|		|
-|	74. Panna cotta	|		|
-|	75. Peking duck	|		|
-|	76. Pho	|		|
-|	77. Pizza	|		|
-|	78. Pork chop	|		|
-|	79. Poutine	|		|
-|	80. Prime rib	|		|
-|	81. Pulled pork sandwich	|		|
-|	82. Ramen	|		|
-|	83. Ravioli	|		|
-|	84. Red velvet cake	|		|
-|	85. Risotto	|		|
-|	86. Samosa	|		|
-|	87. Sashimi	|		|
-|	88. Scallops	|		|
-|	89. Seaweed salad	|		|
-|	90. Shrimp and grits	|		|
-|	91. Spaghetti bolognese	|		|
-|	92. Spaghetti carbonara	|		|
-|	93. Spring rolls	|		|
-|	94. Steak	|		|
-|	95. Strawberry shortcake	|		|
-|	96. Sushi	|		|
-|	97. Tacos	|		|
-|	98. Takoyaki	|		|
-|	99. Tiramisu	|		|
-|	100. Tuna tartare	|		|
-|	101. Waffles	|		|
+|	**ImageNet**			|		**Food-101**	|	**COCO**		|	**CIFAR-100**		|
+| ------------- | ------------- | ------------- | ------------- |
+|	924	guacamole		|	1	apple_pie	|	52	banana	|	apples		|
+|	925	consomme		|	2	baby_back_ribs	|	53	apple	|	mushrooms		|
+|	926	hot pot, hotpot		|	3	baklava	|	54	sandwich	|	oranges		|
+|	927	trifle		|	4	beef_carpaccio	|	55	orange	|	pears		|
+|	928	ice cream, icecream		|	5	beef_tartare	|	56	broccoli	|	sweet peppers		|
+|	929	ice lolly, lolly, lollipop, popsicle		|	6	beet_salad	|	57	carrot	|			|
+|	930	French loaf		|	7	beignets	|	58	hot dog	|			|
+|	931	bagel, beigel		|	8	bibimbap	|	59	pizza	|			|
+|	932	pretzel		|	9	bread_pudding	|	60	donut	|			|
+|	933	cheeseburger		|	10	breakfast_burrito	|	61	cake	|			|
+|	934	hotdog, hot dog, red hot		|	11	bruschetta	|			|			|
+|	935	mashed potato		|	12	caesar_salad	|			|			|
+|	936	head cabbage		|	13	cannoli	|			|			|
+|	937	broccoli		|	14	caprese_salad	|			|			|
+|	938	cauliflower		|	15	carrot_cake	|			|			|
+|	939	zucchini, courgette		|	16	ceviche	|			|			|
+|	940	spaghetti squash		|	17	cheesecake	|			|			|
+|	941	acorn squash		|	18	cheese_plate	|			|			|
+|	942	butternut squash		|	19	chicken_curry	|			|			|
+|	943	cucumber, cuke		|	20	chicken_quesadilla	|			|			|
+|	944	artichoke, globe artichoke		|	21	chicken_wings	|			|			|
+|	945	bell pepper		|	22	chocolate_cake	|			|			|
+|	946	cardoon		|	23	chocolate_mousse	|			|			|
+|	947	mushroom		|	24	churros	|			|			|
+|	948	Granny Smith		|	25	clam_chowder	|			|			|
+|	949	strawberry		|	26	club_sandwich	|			|			|
+|	950	orange		|	27	crab_cakes	|			|			|
+|	951	lemon		|	28	creme_brulee	|			|			|
+|	952	fig		|	29	croque_madame	|			|			|
+|	953	pineapple, ananas		|	30	cup_cakes	|			|			|
+|	954	banana		|	31	deviled_eggs	|			|			|
+|	955	jackfruit, jak, jack		|	32	donuts	|			|			|
+|	956	custard apple		|	33	dumplings	|			|			|
+|	957	pomegranate		|	34	edamame	|			|			|
+|	958	hay		|	35	eggs_benedict	|			|			|
+|	959	carbonara		|	36	escargots	|			|			|
+|	960	chocolate sauce, chocolate syrup		|	37	falafel	|			|			|
+|	961	dough		|	38	filet_mignon	|			|			|
+|	962	meat loaf, meatloaf		|	39	fish_and_chips	|			|			|
+|	963	pizza, pizza pie		|	40	foie_gras	|			|			|
+|	964	potpie		|	41	french_fries	|			|			|
+|	965	burrito		|	42	french_onion_soup	|			|			|
+|	966	red wine		|	43	french_toast	|			|			|
+|	967	espresso		|	44	fried_calamari	|			|			|
+|	968	cup		|	45	fried_rice	|			|			|
+|	969	eggnog		|	46	frozen_yogurt	|			|			|
+|				|	47	garlic_bread	|			|			|
+|				|	48	gnocchi	|			|			|
+|				|	49	greek_salad	|			|			|
+|				|	50	grilled_cheese_sandwich	|			|			|
+|				|	51	grilled_salmon	|			|			|
+|				|	52	guacamole	|			|			|
+|				|	53	gyoza	|			|			|
+|				|	54	hamburger	|			|			|
+|				|	55	hot_and_sour_soup	|			|			|
+|				|	56	hot_dog	|			|			|
+|				|	57	huevos_rancheros	|			|			|
+|				|	58	hummus	|			|			|
+|				|	59	ice_cream	|			|			|
+|				|	60	lasagna	|			|			|
+|				|	61	lobster_bisque	|			|			|
+|				|	62	lobster_roll_sandwich	|			|			|
+|				|	63	macaroni_and_cheese	|			|			|
+|				|	64	macarons	|			|			|
+|				|	65	miso_soup	|			|			|
+|				|	66	mussels	|			|			|
+|				|	67	nachos	|			|			|
+|				|	68	omelette	|			|			|
+|				|	69	onion_rings	|			|			|
+|				|	70	oysters	|			|			|
+|				|	71	pad_thai	|			|			|
+|				|	72	paella	|			|			|
+|				|	73	pancakes	|			|			|
+|				|	74	panna_cotta	|			|			|
+|				|	75	peking_duck	|			|			|
+|				|	76	pho	|			|			|
+|				|	77	pizza	|			|			|
+|				|	78	pork_chop	|			|			|
+|				|	79	poutine	|			|			|
+|				|	80	prime_rib	|			|			|
+|				|	81	pulled_pork_sandwich	|			|			|
+|				|	82	ramen	|			|			|
+|				|	83	ravioli	|			|			|
+|				|	84	red_velvet_cake	|			|			|
+|				|	85	risotto	|			|			|
+|				|	86	samosa	|			|			|
+|				|	87	sashimi	|			|			|
+|				|	88	scallops	|			|			|
+|				|	89	seaweed_salad	|			|			|
+|				|	90	shrimp_and_grits	|			|			|
+|				|	91	spaghetti_bolognese	|			|			|
+|				|	92	spaghetti_carbonara	|			|			|
+|				|	93	spring_rolls	|			|			|
+|				|	94	steak	|			|			|
+|				|	95	strawberry_shortcake	|			|			|
+|				|	96	sushi	|			|			|
+|				|	97	tacos	|			|			|
+|				|	98	takoyaki	|			|			|
+|				|	99	tiramisu	|			|			|
+|				|	100	tuna_tartare	|			|			|
+|				|	101	waffles	|			|			|
      
 ### Similarities: 
 | Food-101  | ImageNet |
