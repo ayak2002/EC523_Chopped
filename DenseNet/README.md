@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 [Overview](#Overview)  
-[Methodology](#Methodology)   
+[Methodology](#Methodology)  
 [Sources](#Sources) 
 
 ## Overview
@@ -11,7 +11,7 @@
 
 ## Methodology
 
-### Pre-trained Models
+### Pre-Trained Models
 
 ### No Weights
 
