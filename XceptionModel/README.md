@@ -3,7 +3,7 @@
 ## Table Of Contents
 [Overview](#Overview)  
 [Methodology](#Methodology)   
-[Model Accuracy](#model-accuracy)
+[Model Accuracy](#model-accuracy)   
 [Sources](#Sources) 
 
 ## Overview
