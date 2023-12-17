@@ -3,7 +3,7 @@
 ## Table Of Contents
 [Overview](#Overview)  
 [Data](#Data)   
-[Model Accuracy](#model-accuracy)
+[Model Accuracy](#model-accuracy)   
 [DenseNet](#DenseNet)   
 [XCeption](#XCeption)   
 [CLIP](#CLIP) 
