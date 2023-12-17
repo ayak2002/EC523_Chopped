@@ -1,4 +1,4 @@
-# EC523_Chopped
+# EC523 - Chopped
 
 ## Table Of Contents
 [Overview](#Overview)  
