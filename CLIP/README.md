@@ -8,7 +8,7 @@
 
 ## Overview
 
-All models and files were executed in BU's SCC using V100s. The prequisites to run scripts are in the [Sources](#Sources) 
+All models and files were executed in [BU's SCC](https://shib.bu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1) using V100s. The prequisites to run these scripts can be found in [Sources](#Sources) 
 
 ## Model Accuracy
 
