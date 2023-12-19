@@ -8,7 +8,7 @@
 
 ## Overview
 
-
+All models and files were executed in BU's SCC using V100s. The prequisites to run scripts are in the [Sources](#Sources) 
 
 ## Model Accuracy
 
