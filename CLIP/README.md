@@ -28,6 +28,6 @@
 
 ## Sources
 
-
-
+First, follow this GitHub link to download the CLIP model:
+https://github.com/openai/CLIP
 
