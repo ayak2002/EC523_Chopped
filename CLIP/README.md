@@ -31,3 +31,6 @@ All models and files were executed in BU's SCC using V100s. The prequisites to r
 First, follow this GitHub link to download the CLIP model:
 https://github.com/openai/CLIP
 
+Then, clone this repository and run any of the main.py files.
+*Important:* Change the file directories to the appropiate file directories that training and testing data are located.
+
