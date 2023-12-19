@@ -10,8 +10,8 @@
 
 All models and files were executed in [BU's SCC](https://shib.bu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1) using V100s. The prequisites to run these scripts can be found in [Sources](#Sources) 
 
-### Linear Probing (experiment.py)
-Linear Probing is the most cost-effective method for adapting CLIP’s image encoder for solving a classification problem. Although it is a naive implementation and typically yields worse performance than fine-tuning, it has proven to be capable of outperforming fine-tuning in out-of-distribution transfer [1]. We also can use this approach as a benchmark to compare our later discussed methods.
+### Linear Probing (experiment.py (experiment2.py for precomputing embeddings)
+Linear Probing is the most cost-effective method for adapting CLIP’s image encoder for solving a classification problem. Although it is a naive implementation and typically yields worse performance than fine-tuning, it has proven to be capable of outperforming fine-tuning in out-of-distribution transfer. We also can use this approach as a benchmark to compare our later discussed methods.
 
 We adapt CLIP’s visual encoder backbone by adding a classification head that takes in as input the image vector embeddings and outputs class scores. The structure consists of a single linear layer followed by a softmax. For training, we freeze all the layers of the image encoder backbone and only update the weights of the linear layer. For all our experiments, we use a cross-entropy loss and Adam optimizer. One optimization we can use is to precompute the vector embeddings for all images in our dataset which we store as temporary files. We found that following this heuristic gave us about ten times improvement in our training time using Nvidia V100s, from a minute to about six seconds per epoch. For all partitions of our dataset, our training time until convergence with this method did not exceed ten minutes.
 
